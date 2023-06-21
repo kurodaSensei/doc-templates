@@ -28,9 +28,12 @@
 
   </ol>
 </details>
+<br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<img src="https://bashooka.com/wp-content/uploads/2018/12/image-text-data-placeholders-3.jpg">
 
 This space is to describe the project, the client, the site or the business model and gives a context to the developer about what to expect in the project.
 
