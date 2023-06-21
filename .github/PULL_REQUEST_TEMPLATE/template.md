@@ -22,7 +22,6 @@ Node 16.15 on Mac OS Ventura 13.4
 ​
 ### Screenshot
 A screenshot of the functionality if is necessary
-]
 ![image](https://bashooka.com/wp-content/uploads/2018/12/image-text-data-placeholders-3.jpg)
 ​
 ### Additional Info
